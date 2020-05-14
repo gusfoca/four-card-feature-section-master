@@ -1,0 +1,72 @@
+/*
+@font-face {
+    font-family: 'poppinslight';
+    src: url('./fonts/poppins-extralight-webfont.woff2') format('woff2'),
+         url('./fonts/poppins-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'poppinsregular';
+    src: url('./fonts/poppins-regular-webfont.woff2') format('woff2'),
+         url('./fonts/poppins-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+*/
+@font-face {
+    font-family: 'poppinssemibold';
+    src: url('./fonts/poppins-semibold-webfont.woff2') format('woff2'),
+         url('./fonts/poppins-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');*/
+/*
+* {
+  box-sizing: border-box;
+}
+*/
+html {
+  font-family: 'poppinssemibold', Arial, sans-serif;
+  /*font-size: 15px;*/
+}
+/*
+h1 {
+  font-family: 'poppins_light', Arial, sans-serif;  
+}
+
+h1 > strong {
+  font-family: 'poppins_bold', Arial, sans-serif;
+}
+
+h2 {
+  font-family: 'poppins_bold', Arial, sans-serif;
+}
+
+article.card, div.cardset {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+article.card {
+  width: 600px;
+}
+
+div.cardset {
+  display: inline-block;
+  width: 200px;
+}
+
+img {
+  margin-left: auto;
+  width: 64px;
+  height: 64px;
+  display: block;
+}
+*/
