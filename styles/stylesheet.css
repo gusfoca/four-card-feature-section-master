@@ -42,6 +42,7 @@ h1 {
   font-weight: lighter;
   margin: 0 auto;
   text-align: center;    
+  color: hsl(234, 12%, 34%);
 }
 
 strong {
@@ -57,11 +58,13 @@ header {
 }
 
 header > p {   
-  text-align: center;  
+  text-align: center;
+  color: hsl(229, 6%, 66%);
 }
 
 p {
   line-height: 1.7rem;
+  color: hsl(0, 0%, 70%);
 }
 
 main {
@@ -95,19 +98,19 @@ div[class^='border'] {
 }
 
 div.border-c1 {
-  border-color: mediumturquoise;
+  border-color: hsl(180, 62%, 55%);
 }
 
 div.border-c2 {
-  border-color: crimson;
+  border-color: hsl(0, 78%, 62%);
 }
 
 div.border-c3 {
-  border-color: orange;
+  border-color: hsl(34, 97%, 64%);
 }
 
 div.border-c4 {
-  border-color: royalblue;
+  border-color: hsl(212, 86%, 64%);
 }
 
 section.card > p {
