@@ -68,7 +68,7 @@ main {
   margin: 0 auto;  
 }
 
-article.card, div.cardset {
+section.card, div.cardset {
   display: inline-block;
   vertical-align: middle;
 }
@@ -77,7 +77,7 @@ article.card, div.cardset {
   width: 100%;
 }
 
-article.card {  
+section.card {  
   padding: 25px 28px;
   max-width: 368px;    
   position: relative;
@@ -110,7 +110,7 @@ div.border-c4 {
   border-color: royalblue;
 }
 
-article.card > p {
+section.card > p {
   max-width: 300px;  
   font-size: 0.9rem;  
 }
@@ -152,12 +152,12 @@ footer > p {
     font-size: 1.3rem;
   }
   
-  article.card {
+  section.card {
     height: 250px;
     margin-bottom: 30px;    
   }
   
-  article.card > p { 
+  section.card > p { 
     margin-top: 10px;    
   }
   
@@ -213,12 +213,12 @@ footer > p {
     font-size: 1.3rem;
   }
   
-  article.card {
+  section.card {
     height: 225px;
     margin-bottom: 24px;    
   }
   
-  article.card > p {        
+  section.card > p {        
     margin-top: 6px;
   }
   
